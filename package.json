@@ -39,7 +39,7 @@
     "sinon": "^13.0.1"
   },
   "engines": {
-    "node": ">=12.4.0"
+    "node": ">=14"
   },
   "dependencies": {
     "picocolors": "^1.0.0"
